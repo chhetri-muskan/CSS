@@ -1,0 +1,20 @@
+h1{
+    color: red;
+}
+h3{
+    color: green;
+}
+#muskan3{
+    color: blue;
+}
+*{
+    color: purple;
+}
+#Muskan{
+    color: yellowgreen;
+    background-color: rgba(231, 22, 22, 0.973);
+}
+div{
+    color: black;
+    background-color: yellow;
+}

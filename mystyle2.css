@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+#hello{
+    color: blue;
+}
+#hi{
+    color: blueviolet;
+}
+.myself{
+    color: green;
+}
+.why{
+    color: brown;
+}
+* {
+    color: darkorange;
+}
